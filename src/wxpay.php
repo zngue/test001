@@ -19,4 +19,8 @@ class wxpay
 
         echo 11;
     }
+    public static function userInfo(){
+
+        echo 1345465;
+    }
 }
