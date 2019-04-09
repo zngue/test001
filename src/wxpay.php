@@ -15,4 +15,8 @@ class wxpay
 
         return 111;
     }
+    public static function ll200(){
+
+        echo 11;
+    }
 }
