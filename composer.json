@@ -1,0 +1,19 @@
+{
+    "name": "zngue/test",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "6.3.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zngue",
+            "email": "zngfue@163.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "Zng\\pay\\":"src/"
+        }
+    }
+}

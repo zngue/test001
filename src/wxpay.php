@@ -1,0 +1,18 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: Administrator
+ * Date: 2019/4/9
+ * Time: 14:15
+ */
+
+namespace Zng\pay;
+
+
+class wxpay
+{
+    public static function getToken(){
+
+        return 111;
+    }
+}
